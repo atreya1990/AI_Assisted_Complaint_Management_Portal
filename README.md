@@ -37,9 +37,6 @@ This complaint management portal leverages the power of Artificial Intelligence,
 Contributions are welcome! If you have ideas for improvement, additional features, or bug fixes, follow the outlined guidelines in the repository. Let's collaborate to make complaint management more efficient and customer-centric.
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE), promoting collaboration and openness.
-
 Feel free to connect for inquiries, feedback, or collaborative opportunities!
 
 ---
